@@ -13,7 +13,7 @@ window.onload = function() {
   const when = [
     "before the class",
     "When I was sleeping",
-    "whiel I was exercising",
+    "while I was exercising",
     "during my lunch",
     "while I was praying"
   ];
